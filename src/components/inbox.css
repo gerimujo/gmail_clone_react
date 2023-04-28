@@ -1,0 +1,30 @@
+#rtop{
+    width: 920px;
+    height:50px;
+    border: 1px black solid;
+    display: flex;
+    align-items: center;
+    border-bottom:0px red solid;
+    background-color: white;
+}
+#chk3{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#messg1{
+   overflow-y: scroll;
+    width:920px;
+    height:450px;
+   background-color: white;
+    border: 1px black solid;
+}
+#messto{
+    margin-left: 250px;
+}
+.contmain{
+    background-color: #eff7fd;
+   height: 600px;
+}
+

@@ -1,0 +1,76 @@
+#form3 {
+  margin-left: 200px;
+  display: flex;
+  margin-top: 20px;
+  width: 800px;
+  height: 550px;
+  border: 1px rgb(116, 113, 113) solid;
+  border-radius: 1%;
+}
+.log3 img {
+  width: 100px;
+}
+.log3 {
+  border: 3px black border;
+  margin-left: 35px;
+  margin-top: 40px;
+}
+#crg {
+  margin-top: 10px;
+  font-size: 25px;
+}
+.line1 input {
+  width: 165px;
+  height: 40px;
+}
+#inp4 {
+  margin-left: 8px;
+}
+#inp5 {
+  width: 340px;
+  height: 40px;
+}
+.line2 input {
+  width: 165px;
+  height: 40px;
+}
+#inp6 {
+  margin-left: 8px;
+}
+#p1 {
+  font-size: 12px;
+  margin-left: 5px;
+}
+#p2 {
+  font-size: 12px;
+  width: 300px;
+  margin-left: 5px;
+}
+input {
+  border: 1px black solid;
+}
+input:focus {
+  border-color: rgb(22, 171, 230);
+  border-width: 3px;
+}
+#inp7 {
+  width: 20px;
+  height: 20px;
+  margin-right: 30px;
+}
+.fot5 {
+  display: flex;
+}
+.fot5 input {
+  margin-left: 180px;
+}
+.xm img {
+  margin-top: 100px;
+  margin-left: 30px;
+  width: 300px;
+}
+.xm p {
+  margin-left: 90px;
+  width: 200px;
+  text-align: center;
+}

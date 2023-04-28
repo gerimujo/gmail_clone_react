@@ -1,0 +1,94 @@
+.topv {
+  position: relative;
+  top: -15;
+  right: -20px;
+  width: 200px;
+}
+.topv img {
+  margin-left: 120px;
+  width: 85px;
+}
+.topv p {
+  position: relative;
+  top: -20px;
+  margin-left: 110px;
+  font-size: 25px;
+}
+.cont {
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 450px;
+  height: 500px;
+  border: 1px black solid;
+  border-radius: 2%;
+  display: flex;
+  justify-content: center;
+}
+.em img {
+  position: relative;
+  top: -20px;
+  margin-right: 5px;
+  width: 25px;
+  border: 1px black solid;
+  border-radius: 50%;
+}
+#djathtas {
+  position: relative;
+  left: -20px;
+  height: 25px;
+  border: 2px black solid;
+  border-left-color: transparent;
+  width: 25px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.em {
+  display: flex;
+  height: 25px;
+  border: 2px black solid;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  align-items: center;
+  justify-content: center;
+}
+#email1 {
+  margin-top: 10px;
+}
+#majtas {
+  position: relative;
+  right: -20px;
+  height: 25px;
+  width: 25px;
+  border: 2px black solid;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+.super {
+  display: flex;
+  position: relative;
+  top: -35px;
+  right: -50px;
+}
+#text1 {
+  position: relative;
+  top: -40px;
+}
+#email:focus {
+  border-color: rgb(7, 161, 232);
+}
+.fott {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.fott p {
+  font-weight: bold;
+  position: relative;
+  color: rgb(7, 161, 232);
+  left: -80px;
+}
+.fott button {
+  position: relative;
+  right: -80px;
+}

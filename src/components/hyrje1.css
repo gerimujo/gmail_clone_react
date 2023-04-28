@@ -1,0 +1,71 @@
+.cont img {
+  margin-top: 40px;
+  width: 85px;
+}
+
+.cont {
+  margin-left: 400px;
+  margin-top: 40px;
+  width: 450px;
+  height: 500px;
+  border: 1px black solid;
+  border-radius: 2%;
+  display: flex;
+  justify-content: center;
+}
+#sig {
+  margin-top: -1px;
+  margin-left: 30px;
+  font-size: 25px;
+}
+#con {
+  width: 200px;
+  margin-top: -40px;
+  font-size: 15px;
+}
+#email {
+  width: 370px;
+  height: 55px;
+  border: 1px black solid;
+  font-size: 20px;
+  border-radius: 5%;
+}
+#email:focus {
+  border-width: 3px;
+
+  border-color: rgb(7, 161, 232);
+}
+.tops {
+  margin-left: 100px;
+  width: 200px;
+}
+#forg {
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(7, 161, 232);
+}
+.fott {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.fotts {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.fotts p {
+  font-weight: bold;
+  position: relative;
+  color: rgb(7, 161, 232);
+  left: -110px;
+}
+.fotts button {
+  position: relative;
+  right: -100px;
+}
+.tops img {
+  margin-left: 30px;
+}

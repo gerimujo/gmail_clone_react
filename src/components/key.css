@@ -1,0 +1,49 @@
+#round12 img{
+    width:35px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.keyinp{
+    width:600px;
+
+}
+#round12{
+    background-color: white;
+    border:1px black solid;
+   border-radius: 10%;
+    width:700px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 250px;
+
+}
+.serel{
+   
+    width:700px;
+    height:40px;
+    border:0.5px black solid;
+    position: relative;
+    z-index: 999;
+    background-color: white;
+    display: flex;
+    align-items: center;
+   
+    
+}
+.serel p{margin-top: 5px;
+    margin-left: 20px;
+    width:500px;
+    overflow: hidden;
+}
+.srcont{
+    position: absolute;
+    top:50px;
+    left:250px;
+    max-height: 500px;
+    overflow: auto;
+}
+.serel img{
+    margin-left: 22px;
+    width:30px;
+}

@@ -1,0 +1,92 @@
+.cont10 {
+  width: 900px;
+  height: 40px;
+  border-bottom: 0.5px black solid;
+  display: flex;
+  align-items: center;
+ 
+}
+.chk1 {
+  margin-left: 20px;
+  width: 15px;
+  height: 15px;
+}
+.names {
+  font-weight: bold;
+  position: relative;
+  bottom: -5px;
+  left: 30px;
+  width: 150px;
+
+  overflow: hidden;
+}
+.subject {
+  position: relative;
+  bottom: -5px;
+  left: 100px;
+
+  width: 570px;
+
+  display: flex;
+
+  overflow: hidden;
+}
+.subjectd {
+  float: left;
+  position: relative;
+  bottom: -6px;
+}
+.subname {
+  font-weight: bolder;
+
+  position: relative;
+  bottom: -5px;
+}
+.mm{
+  position: absolute;
+  margin-top: 50px;
+}
+.cont20{
+  display: flex;
+}
+#marhead1{
+  margin-left: 75px;
+  margin-right: 5px;
+}
+#img10{
+  transform: scale(0.5);
+  border-radius: 50%;
+}
+.marmesagibox{
+  display: flex;
+  align-items: center;
+}
+#nameinbox{
+  margin-right: 10px;
+  font-weight: bold;
+}
+#textareamarr{
+  resize: none;
+  overflow: auto;
+  width:800px;
+  margin-left: 75px;
+  height:280px;
+  margin-top: -15px;
+  border-color: white;
+
+}
+#textareamarr:focus{
+  outline: none;
+}
+#replly{
+  width:900px;
+}
+.cont20 p{
+  font-weight: bolder;
+  font-size: 20px;
+}
+#idinboxanash12{
+  margin-left: 440px;
+  width:130px;
+  margin-bottom: 15px;
+}
